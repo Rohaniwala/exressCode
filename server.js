@@ -16,7 +16,7 @@ app.get('/page1', (req, res) => {
             { name: 'Google ', city: 'India' },
             { name: 'ThoughWork', city: 'London' },
             { name: 'LinkedIn', city: 'MAxico' },
-            { name: 'Google ', city: 'India' },
+            { name: 'Ravindrasinh ', city: 'India' },
             { name: 'ThoughWork', city: 'London' }
 
         ];
